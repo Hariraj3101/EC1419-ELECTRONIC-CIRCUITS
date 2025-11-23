@@ -24,14 +24,20 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## Calculation
+
+<img width="1080" height="545" alt="image" src="https://github.com/user-attachments/assets/f35d337d-bc90-4d23-a95d-77e64a022452" />
+
+<img width="940" height="1325" alt="image" src="https://github.com/user-attachments/assets/7cdc4aeb-a8ea-48c1-9f7e-8c0cccd66624" />
+
 
 ## Graph
 
+<img width="973" height="507" alt="image" src="https://github.com/user-attachments/assets/ec912d0a-1ccf-4908-9c57-cdba0824a6d5" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =2db
 
-**BANDWIDTH =**
+**BANDWIDTH =40Mhz
