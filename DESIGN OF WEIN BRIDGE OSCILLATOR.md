@@ -13,7 +13,11 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## Calculation
+<img width="883" height="1413" alt="image" src="https://github.com/user-attachments/assets/56bb2aee-b3c3-4502-87f5-4ba402ed0abb" />
+
+<img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/faaa9220-6e49-455e-98d0-63bdbfa0b375" />
+
 
 ## Graph
 
